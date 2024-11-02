@@ -1,1 +1,1 @@
-a basic email sender in python by ssTp
+a basic email sender in python 
